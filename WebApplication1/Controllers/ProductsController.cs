@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using WebApplication1.Models;
 using WebApplication1.Models.Repository;
 
+//This is a code of controller
 namespace WebApplication1.Controllers
 {
     [Route("api/[controller]")]
